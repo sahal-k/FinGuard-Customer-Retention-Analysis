@@ -33,7 +33,7 @@ The tenure-based heatmap identifies critical "Drop Zones." Specifically, Year 0 
 ### **4. Risk Determinant Analysis**
 Utilizing factor analysis, the framework identifies the core drivers of attrition. Key findings indicate that customers with only one product and those based in specific European regions represent the highest propensity for exit.
 
-![Risk Determinants]([./04_Project_Assets/Risk_Determinants.png](https://github.com/sahal-k/FinGuard-Customer-Retention-Analysis/blob/main/04_Project_Assets/Risk_Determinants.png.png?raw=true))
+![Risk Determinants](https://github.com/sahal-k/FinGuard-Customer-Retention-Analysis/blob/main/04_Project_Assets/Risk_Determinants.png.png?raw=true))
 
 ---
 
