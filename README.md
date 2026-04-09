@@ -19,7 +19,7 @@ Before visualization, the raw banking data was processed to create custom risk c
 * **Feature Engineering**: Creating the `Risk_Status` logic based on activity and credit health.
 * **Financial Modeling**: Calculating `Monthly_Revenue_at_Risk` to quantify the impact of churn.
 
-![Data Transformation](./04_Project_Assets/Data_Transformation.png)
+![Data Transformation]([./04_Project_Assets/Data_Transformation.png](https://github.com/sahal-k/FinGuard-Customer-Retention-Analysis/blob/main/02_Processed_Data/Data_Transformation_Process.png.png?raw=true))
 
 ---
 
