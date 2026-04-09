@@ -26,7 +26,7 @@ Before visualization, the raw banking data was processed to create custom risk c
 ### **3. Strategic Insights: Retention Matrix**
 The tenure-based heatmap identifies critical "Drop Zones." Specifically, Year 0 and Year 1 show the highest density of account closures, signaling a need for enhanced onboarding engagement.
 
-![Retention Matrix](./04_Project_Assets/Retention_Matrix.png)
+![Retention Matrix]([./04_Project_Assets/Retention_Matrix.png](https://github.com/sahal-k/FinGuard-Customer-Retention-Analysis/blob/main/04_Project_Assets/Retention_Matrix.png.png?raw=true))
 
 ---
 
