@@ -10,7 +10,7 @@ This project establishes a high-fidelity analytical architecture to mitigate rev
 ### **1. Executive Dashboard Overview**
 The primary interface provides a real-time financial health check, tracking Monthly Revenue at Risk and Total LTV Exposure.
 
-![Executive Overview](./04_Project_Assets/Executive_Overview.png)
+![Executive Overview](04_Project_Assets/Executive_Overview.png)
 
 ---
 
