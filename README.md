@@ -1,6 +1,7 @@
 # FinGuard-Customer-Retention-Analysis
 Comprehensive Fintech analysis suite developed to mitigate $239K in monthly revenue leakage. Features a multi-layered retention model and financial risk mapping to optimize customer lifetime value for international banking operations.
 # FinGuard: Strategic Customer Retention Framework
+> [📊 View PDF Report](./03_PowerBI_Architecture/FinGuard_Executive_Report.pdf) | [📂 Access Raw Data](./01_Raw_Data/) | [🛠️ View Cleaned Dataset](./02_Processed_Data/)
 
 ### **Executive Summary**
 This project establishes a high-fidelity analytical architecture to mitigate revenue leakage for a retail banking operation. By transitioning from manual reporting to an automated dashboard, I identified **$239K in monthly revenue at risk** and developed a framework to protect **$1.26M in stable revenue**.
